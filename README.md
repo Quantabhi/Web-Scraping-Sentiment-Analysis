@@ -41,7 +41,7 @@ The script follows these steps:
 
 The script generates a Pandas DataFrame with columns 'Text', 'Sentiment Polarity', and 'Sentiment Subjectivity'. Additionally, it displays the overall sentiment and a scatter plot for a visual representation of sentiment analysis.
 
-##Requirements
+## Requirements
 pip install requests beautifulsoup4 textblob pandas seaborn
 
 ## Disclaimer
