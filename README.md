@@ -43,5 +43,6 @@ The script generates a Pandas DataFrame with columns 'Text', 'Sentiment Polarity
 
 ##Requirements
 pip install requests beautifulsoup4 textblob pandas seaborn
-##Disclaimer
+
+## Disclaimer
 This script is intended for educational purposes only. Use responsibly and ensure compliance with the terms of service of the websites you are scraping.
